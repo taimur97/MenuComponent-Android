@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<item name="mc__item_icon" type="id"/>
+	<item name="mc__item_title" type="id"/>
+
+</resources>
